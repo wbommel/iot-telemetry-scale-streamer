@@ -1,0 +1,4 @@
+MQTT_BROKER = "oldpi"
+MQTT_TOPIC = "BudgieScale1/weight"
+WEIGHT_THRESHOLD = 20.0
+STREAM_PORT = 8282

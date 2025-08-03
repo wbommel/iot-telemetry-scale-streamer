@@ -1,1 +1,1 @@
-# iot-telemetry-scale-streamer
+# weight-cam\n\nLivestreaming and image-capturing system triggered by MQTT weight data.\n
